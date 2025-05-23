@@ -1,5 +1,8 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
+## REG NO : 212224040014
+## NAME   : AGASH S
+
 # AIM:
 
 To draw the UML diagram for Student Online Exam Registration System.
@@ -35,7 +38,8 @@ vi)Sequence Diagram
 ![image](https://github.com/user-attachments/assets/6da3cc89-a2ed-49f3-93cf-651503b46c1e)
 
 # Package Diagram:
-![image](https://github.com/user-attachments/assets/70938aa3-0ea6-4be4-8507-5a903f59d668)
+![image](https://github.com/user-attachments/assets/24245e29-e3fd-4ec7-8222-09e95a6daa83)
+
 
 # Sequence Diagram:
 ![image](https://github.com/user-attachments/assets/99f4eeec-8b93-4b88-9798-a4e956f45327)
